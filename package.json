@@ -16,7 +16,7 @@
     "gauge": "^5.0.2",
     "glob": "^11.0.1",
     "inflight": "^1.0.6",
-    "next": "latest",
+    "next": "15.2.1-canary.5",
     "next-auth": "5.0.0-beta.25",
     "npmlog": "^7.0.1",
     "postcss": "8.5.1",
